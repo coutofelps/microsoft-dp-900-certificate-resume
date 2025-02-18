@@ -8,7 +8,7 @@ A certificação **DP-900 (Microsoft Azure Data Fundamentals)** é voltada para 
 
 ## **📈 Conteúdo da Prova**
 
-A prova avalia o conhecimento em quatro grandes áreas:
+A prova avalia o conhecimento em cinco grandes áreas:
 
 ### **1. Conceitos de Dados**
 
